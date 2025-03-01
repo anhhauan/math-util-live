@@ -25,6 +25,8 @@ public class MathUtilLive {
         System.out.println("hehehehe");
         System.out.println("hhahahah");
         System.out.println("hihiihih");
+        System.out.println("hehehehejhjhjk");
+        //kjkjkj
         //kĩ thuật kiểm thử phần mềm: ước lượng xem giá trị trả về cảu hàm là j
         //expected value: 5! = 120
         //mày/hàm ai đố viết khi chạy là mấy - actual, giả sử 120
