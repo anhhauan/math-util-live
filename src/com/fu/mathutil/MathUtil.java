@@ -12,7 +12,7 @@ package com.fu.mathutil;
 //KHI TA CUNG CẤP TIỆN ÍCH CHO NƠI KHÁC XÀI, ĐÓ LÀ LÚC TA KO CẦN NHỚ CÁI J CHO
 //RIÊNG TA, HÀM STATIC GIÚP LÀM ĐIỀU NÀY
 public class MathUtil {
-    
+    int n;
     //n! = 1.2.3.4.5.6...n
     //Quy ước: 0! = 1! = 1
     //Ko tính giai thừa cho số âm
@@ -38,6 +38,7 @@ public class MathUtil {
             product *= i; //nhồi liên tục
         }   //nhân từ 2 đến n 
         return product;
+        
     }
     
     ////kkkk
