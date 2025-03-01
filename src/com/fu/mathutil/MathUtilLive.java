@@ -22,6 +22,9 @@ public class MathUtilLive {
 
         System.out.println("1! = 1; actual: " + MathUtil.getFactorial(1));
         System.out.println("3! = 6; actual: " + MathUtil.getFactorial(3));
+        System.out.println("hehehehe");
+        System.out.println("hhahahah");
+        System.out.println("hihiihih");
         System.out.println("hehehehejhjhjk");
         //kjkjkj
         //kĩ thuật kiểm thử phần mềm: ước lượng xem giá trị trả về cảu hàm là j
