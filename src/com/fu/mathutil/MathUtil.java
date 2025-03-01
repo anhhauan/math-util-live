@@ -13,6 +13,7 @@ package com.fu.mathutil;
 //RIÊNG TA, HÀM STATIC GIÚP LÀM ĐIỀU NÀY
 public class MathUtil {
     int n;
+    int x;
     //n! = 1.2.3.4.5.6...n
     //Quy ước: 0! = 1! = 1
     //Ko tính giai thừa cho số âm

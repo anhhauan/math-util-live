@@ -28,5 +28,8 @@ public class MathUtilLive {
         //expected value: 5! = 120
         //mày/hàm ai đố viết khi chạy là mấy - actual, giả sử 120
         //if expected == actual, hàm ngon trong tình huống này
+        
+      
     }
+    int b;
 }
