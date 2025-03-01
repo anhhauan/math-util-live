@@ -19,10 +19,11 @@ public class MathUtilLive {
 
         System.out.println("0! = 1; actual: " + MathUtil.getFactorial(0));
         //THÊM CODE SAU LẦN ĐẦU TIÊN LÀM CHUYỆN ẤY - CODE LÊN SERVER 5:35PM 7/7/2021
-        
+
         System.out.println("1! = 1; actual: " + MathUtil.getFactorial(1));
         System.out.println("3! = 6; actual: " + MathUtil.getFactorial(3));
-        
+        System.out.println("hehehehejhjhjk");
+        //kjkjkj
         //kĩ thuật kiểm thử phần mềm: ước lượng xem giá trị trả về cảu hàm là j
         //expected value: 5! = 120
         //mày/hàm ai đố viết khi chạy là mấy - actual, giả sử 120
